@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @secoskyj
 - 👀 I’m interested in leading software development teams and systems programming
 - 🌱 I’m currently learning Designing Your Life and git
-- 💞️ I’m looking to collaborate on developing my Odyssey Plans
+- 💞️ I’m looking to collaborate on developing my Odyssey Plans, intersted in helping?
 - 📫 How to reach me ...
 
 <!---
